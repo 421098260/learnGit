@@ -3,4 +3,5 @@ add a line
 add a line again
 checkout branch
 
-master feature1
+feature1
+
