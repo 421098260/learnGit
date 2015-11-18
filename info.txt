@@ -5,3 +5,5 @@ checkout branch
 
 feature1
 
+--no-ff
+
