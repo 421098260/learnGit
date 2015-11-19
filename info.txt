@@ -9,4 +9,4 @@ feature1
 
 bug branch 
 
-dev2 push -- 
+dev2 push --  --  
